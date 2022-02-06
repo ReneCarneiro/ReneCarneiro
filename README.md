@@ -1,6 +1,6 @@
 Renê Carneiro
 
-Olá sou programador Java, apaixonado em desenvolver soluções para simplificar, acelerar e potencializar soluões por meio de tecnologia.
+Olá sou programador Java, apaixonado em desenvolver soluções para simplificar, acelerar e potencializar soluções por meio de tecnologia.
 
 Algumas das tecnologia que trabalho:
 
@@ -8,7 +8,7 @@ Algumas das tecnologia que trabalho:
 - SpringBoot
 - Postman
 - Hiroku
-- Vs Code
+- VS Code
 - Netlify
 - Junit
 - MySQL
