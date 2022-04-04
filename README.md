@@ -1,8 +1,12 @@
-# Olá sou Rene Carneiro
+# Olá seja bem vindo ao meu git, me chamo Rene Carneiro,
 
-<p>😊 Hoje trabalho com Back-end
+💻 Atualmente estou em transição de carreira e gostaria muito de uma oportunidade!
+
+<p>😊 Hoje trabalho com Back-end Java.
 </p>
-🔥 Estudando S3 AWS e DOCKER
+<p>🔥 Estudando S3 AWS e DOCKER
+</p>
+👉 Fique a vontade e para mais informações de uma olhadinha em meu Linkedin.
 
 ##
 
