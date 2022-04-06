@@ -4,7 +4,7 @@
 
 <p>😊 Hoje trabalho com Back-end Java.
 </p>
-<p>🔥 Estudando S3 AWS e DOCKER
+<p>🔥 Estudando AWS (S3, EC2, RDS) e DOCKER.
 </p>
 👉 Fique a vontade e para mais informações de uma olhadinha em meu Linkedin.
 
