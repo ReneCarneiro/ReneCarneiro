@@ -1,6 +1,6 @@
 # Olá seja bem vindo ao meu git, me chamo Rene Carneiro,
 
-💻 Atualmente estou em transição de carreira e gostaria muito de uma oportunidade!
+💻 Atualmente trabalho como Desenvolvedor Back-End - Java!
 
 <p>😊 Hoje trabalho com Back-end Java.
 </p>
